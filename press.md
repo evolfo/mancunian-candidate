@@ -3,10 +3,8 @@ layout: page
 title: Press
 ---
 
-[Link 1](http://)
+ > "Swindells’ Mancunian Candidate is a refreshingly suberb effort, echoing the spirit of those great prog rock groups of England’s Canterbury era, like the aforementioned Genesis, Gentle Giant, Hatfield of the North, and yet inspired with the modern sensibility and originality akin to more contemporary prog artists like Steven Wilson. If you like prog, you’ll love Mancunian Candiate."
 
-[Link 2](http://)
-
-[Link 3](http://)
+[E Doc Smith  *Beyond Chron*](http://www.beyondchron.org/matt-swindells-mancunian-candidate/)
 
 [Press Release](img/press-release.pdf)

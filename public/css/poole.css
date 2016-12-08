@@ -60,6 +60,7 @@ html {
 
 body {
   color: #515151;
+  max-width: 1440px;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;

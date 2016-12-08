@@ -270,6 +270,12 @@ a.sidebar-nav-item:focus {
   .home img {margin: 0px;}
 }
 
+.home form {text-align: center; padding: 10px;}
+
+.cd-img img {padding: 20px; margin: 0px auto;}
+
+.buy-links img {margin: 0px auto;}
+
 .img-responsive {max-width: 100%, height: auto;}
 
 .copyright {font-size: 14px;}
