@@ -275,6 +275,7 @@ a.sidebar-nav-item:focus {
 .cd-img img {padding: 20px; margin: 0px auto;}
 
 .buy-links img {margin: 0px auto;}
+.buy-links {padding: 20px;}
 
 .img-responsive {max-width: 100%, height: auto;}
 
