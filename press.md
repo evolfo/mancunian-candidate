@@ -9,4 +9,4 @@ title: Press/Contact
 
 [Press Release](img/press-release.pdf)
 
-[Press Contact Here](contact@mancuniancandidatemusic.com) 
+[Press Contact Here](mailto:contact@mancuniancandidatemusic.com) 
