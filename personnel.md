@@ -13,7 +13,7 @@ Mandolin: Jasper Wilkinson
 
 Recorded and mixed by [Dan Feiszli](http://www.studiorhythm.com/Welcome.html)    
 Additional engineering: Matt Boudreau, John Evans, [Jasper Wilkinson](https://soundcloud.com/jasper-wilkinson/foolish)   
-Additional editing: Lisa Engelken    
+Additional editing: [Lisa Engelken](http://www.lisaengelken.com)    
 Mastered by [Michael Romanowski](http://www.coastmastering.com/michael/)    
 
 Art Design: [Jennifer Barone](https://jennbarone.com/)    
