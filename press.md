@@ -7,6 +7,6 @@ title: Press/Contact
 
 [E Doc Smith  *Beyond Chron*](http://www.beyondchron.org/matt-swindells-mancunian-candidate/)
 
-[Press Release](img/press-release.pdf)
+[Press Release](img/press-release1.jpg)
 
 [contact@mancuniancandidatemusic.com](mailto:contact@mancuniancandidatemusic.com) 

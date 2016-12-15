@@ -18,3 +18,5 @@ Mastered by [Michael Romanowski](http://www.coastmastering.com/michael/)
 
 Art Design: [Jennifer Barone](https://jennbarone.com/)    
 Photography: [Vince Genovese](http://www.jovin.org/about.html)
+
+Thanks to Joanne Gosling for Family snap shot! 

@@ -263,6 +263,8 @@ a.sidebar-nav-item:focus {
 }
 
 /* Custom CSS */
+ul {list-style-type: none;}
+
 @media (min-width: 1166px) {
 
 }
