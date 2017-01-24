@@ -12,6 +12,12 @@ It is a project by Matt Swindells who many of you will remember as the drummer a
 
 &mdash; <cite>Keith Waye</cite>
 
+> "Just been playing the fabulous new release by 'MANCUNIAN CANDIDATE'. For those who are not familiar with this, it features the vocal, drum, guitar and keyboard skills of Matt Swindells. Matt has written, arranged and produced the album himself and has a cast of other great musicians in support. He's a talented one for sure! It really is a great album, and definitely one for those of you who like song based, melodic prog/rock. Check it out, You won't be disappointed.
+Mine and Matt's paths crossed several years ago through a tenuous link with Francis Dunnery. Matt is a Brit living in the USA. Some of you may be familiar with the short lived but brilliant band MOTH VELLUM which he was part of.
+Please go along to his site and listen to the samples. Better still, if you like what you hear why not buy the album. You'll thank me for this advice one day (trust me!)"
+
+&mdash; <cite>Simon Rogers - Ghost Community</cite>
+
 [Press Release](img/press-release1.jpg)
 
 [contact@mancuniancandidatemusic.com](mailto:contact@mancuniancandidatemusic.com) 
