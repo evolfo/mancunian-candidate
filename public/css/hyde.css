@@ -263,6 +263,8 @@ a.sidebar-nav-item:focus {
 }
 
 /* Custom CSS */
+.sidebar-social img {display: inline; }
+
 ul {list-style-type: none;}
 
 @media (min-width: 1166px) {
@@ -289,6 +291,8 @@ ul {list-style-type: none;}
 .home-table {border: none;}
 .home-table th {border: none; background-color: transparent !important; padding: 1px;}
 
+.cd-baby {padding: 15px; padding-top: 2px;} 
+.cd-baby a {margin: 0px auto;}
 
 /* Lyrics CSS */
 
